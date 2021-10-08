@@ -67,6 +67,5 @@
 - [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api/files/3268432)
 - [TIS-3D](https://www.curseforge.com/minecraft/mc-mods/tis-3d/files/3462756)
 - [Tree Felling](https://www.curseforge.com/minecraft/mc-mods/tree-felling-made-lightweight-and-with-mod/files/3382271)
-- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/3413560)
 - [Wall-Jump!](https://www.curseforge.com/minecraft/mc-mods/wall-jump/files/3193207)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones/files/3440017)
