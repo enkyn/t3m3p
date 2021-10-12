@@ -57,7 +57,7 @@
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3437009)
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph/files/3353732)
 - [Psi](https://www.curseforge.com/minecraft/mc-mods/psi/files/3385312)
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark/files/3394265)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark/files/3489211)
 - [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod/files/3242601)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons/files/3429973)
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/3485233)
