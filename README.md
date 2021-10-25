@@ -33,7 +33,7 @@
 - [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3485636)
 - [Feywild](https://www.curseforge.com/minecraft/mc-mods/feywild/files/3504051)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel/files/3459739)
-- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3502632)
+- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3502622)
 - [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire/files/3379836)
 - [Halogen](https://www.curseforge.com/minecraft/mc-mods/halogen/files/3410021)
 - [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/3441117)
