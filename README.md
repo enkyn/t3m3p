@@ -31,7 +31,7 @@
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite/files/3419895)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench/files/3245271)
 - [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3485636)
-- [Feywild](https://www.curseforge.com/minecraft/mc-mods/feywild/files/3496366)
+- [Feywild](https://www.curseforge.com/minecraft/mc-mods/feywild/files/3504051)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel/files/3459739)
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3502632)
 - [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire/files/3379836)
